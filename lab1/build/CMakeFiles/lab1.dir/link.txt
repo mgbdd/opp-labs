@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/lab1.dir/main.cpp.o CMakeFiles/lab1.dir/load.cpp.o CMakeFiles/lab1.dir/operations.cpp.o -o lab1  /opt/intel/oneapi/mpi/2021.10.0/lib/libmpicxx.so /opt/intel/oneapi/mpi/2021.10.0/lib/release/libmpi.so /usr/lib/x86_64-linux-gnu/librt.so /usr/lib/x86_64-linux-gnu/libpthread.so /usr/lib/x86_64-linux-gnu/libdl.so 

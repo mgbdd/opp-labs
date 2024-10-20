@@ -1,0 +1,3 @@
+/home/opp12/lab1/build/CMakeFiles/lab1.dir
+/home/opp12/lab1/build/CMakeFiles/edit_cache.dir
+/home/opp12/lab1/build/CMakeFiles/rebuild_cache.dir
